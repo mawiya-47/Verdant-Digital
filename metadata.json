@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Digital",
+  "description": "Premium full-stack business website and agency platform for Verdant Digital, featuring an AI chat assistant, admin CMS dashboard, and modular portfolio services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
